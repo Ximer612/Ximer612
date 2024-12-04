@@ -4,21 +4,19 @@
         <img width="25%" align="right" alt="Github" src="https://github.com/user-attachments/assets/5f7aa3c6-0128-42e3-bad8-f1ee381d14d4" />
     </p>
 </div>
-
-<br/>
-
-<div align="left">
+<div>
 
 <h1> Hello Developers! </h1>
-</p>
-<div size='20px'> 
-Hi! I'm Marco, a video game programmer living in Italy! :star2:
 
-Welcome to my GitHub page!
+<div> 
+Welcome to my GitHub page.
+
+My name is Marco and I'm a video game programmer living in Italy! :star2:
+
+I love to retro gaming and modding games!
 </div>
 
 <h2> Skills </h2>
-
 <p float="left">
     <img width ='32px' height='32px' src ='icons/unreal_engine.svg' />
     <img width ='32px' height='32px' src ='icons/unity.svg'/>
@@ -34,5 +32,4 @@ Welcome to my GitHub page!
     <img width ='32px' height='32px' src ='icons/css.svg'>
     <img width ='32px' height='32px' src ='icons/blender.svg'>
 </p>
-
 </div>
