@@ -1,19 +1,19 @@
 <div align="left">
     <p float="left">
-        <img width="20%" src="https://github.com/user-attachments/assets/5ef289ee-0501-41b9-9f22-8597c58c62f2" alt="cover" />
-        <img width="25%" align="right" alt="Github" src="https://github.com/user-attachments/assets/5f7aa3c6-0128-42e3-bad8-f1ee381d14d4" />
+        <img width="20%" src="gifs/left.gif" alt="cover" />
+        <img width="25%" align="right" alt="Github" src="gifs/right.gif" />
     </p>
 </div>
 <div>
 
-<h1> Hello Developers! </h1>
+<h1> Hello Developers! :octocat: </h1>
 
 <div> 
-Welcome to my GitHub page.
+Welcome to my GitHub page. 
 
 My name is Marco and I'm a video game programmer living in Italy! :star2:
 
-I love to retro gaming and modding games!
+I love to play retro and modding games! :video_game:
 </div>
 
 <h2> Skills </h2>
