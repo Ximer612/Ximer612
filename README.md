@@ -1,6 +1,6 @@
 <div align="left">
     <p float="left">
-        <img width="20%" src="gifs/left.gif" alt="cover" />
+        <img width="25%" src="gifs/left.gif" alt="cover" />
         <img width="20%" align="right" alt="Github" src="gifs/right.gif" />
     </p>
 </div>
